@@ -1,2 +1,2 @@
 # personal-web-page
-This is my personal web page, containing About Me/ Bio/ Portfolio and Contacts
+This is my personal web page, containing Bio/ Portfolio / Stack used and Contacts
